@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+[data-amplify-authenticator]{
+  background-color: white !important;
+}
+
+.amplify-label{
+  color: black !important;
+}
+.amplify-button--primary{
+  background-color: #f76c0a !important;
+  color: white;
+}
+.data-amplify-container{
+  border-radius: 2rem !important;
+  box-shadow: 2px 2px 10px gray !important;
+}
