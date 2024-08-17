@@ -51,3 +51,6 @@
   border-radius: 2rem !important;
   box-shadow: 2px 2px 10px gray !important;
 }
+ [data-amplify-authenticator] [data-amplify-container] {
+  box-shadow: 5px 5px 10px rgb(66, 66, 66);
+ }
